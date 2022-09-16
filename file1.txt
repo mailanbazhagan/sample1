@@ -3,6 +3,7 @@
 1. List
 2. Tuple
 3. Dictionary
+4. Sets
 
 # Python Libraries
 1. Pandas

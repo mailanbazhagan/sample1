@@ -1,0 +1,7 @@
+# Python Datatypes
+
+1. List
+2. Tuple
+3. Dictionary
+
+## Thank you

@@ -4,4 +4,9 @@
 2. Tuple
 3. Dictionary
 
+# Python Libraries
+1. Pandas
+2. Numpy
+3. Matplotlib
+
 ## Thank you
